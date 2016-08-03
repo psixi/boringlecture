@@ -1,0 +1,14 @@
+h2.intro {
+  font-family: monospace;
+  color: pink;
+}
+
+p.intro {
+  font-family: fantasy;
+  color: aqua;
+}
+
+img.intro {
+  width: 90%;
+  height: auto;
+}
